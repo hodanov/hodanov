@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Back-end Engineer. I good at API development and a server side of web application development. Recently, I like outdoor activities such as a paraglider, a snowfeet.
+I'm a Back-end Engineer. I good at API development and a server side development of web applications. Recently, I like outdoor activities such as a paraglider, a snowfeet.
 
 ## My GitHub stats
 [![Hoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=hodanov&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
