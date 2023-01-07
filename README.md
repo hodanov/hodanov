@@ -3,9 +3,9 @@
 I'm a Back-end Engineer. I good at API development and a server side development of web applications. Recently, I like outdoor activities such as a paraglider, a snowfeet.
 
 ## My GitHub stats
-[![Hoda's GitHub stats](https://github-readme-stats-ivory-nine.vercel.app/api?username=hodanov&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Hoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=hodanov&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-ivory-nine.vercel.app/api/top-langs/?username=hodanov&hide=html,css,php,ruby,hcl&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hodanov&hide=html,css,php,ruby,hcl&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hodanov/hodanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
