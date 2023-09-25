@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm a Back-end Engineer. I good at API development and a server side development of web applications. Recently, I like outdoor activities such as a paraglider, a snowfeet.
+I'm a Back-end Engineer. I good at API development and a server side development of web applications.
 
 ## My GitHub stats
 
